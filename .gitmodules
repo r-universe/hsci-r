@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/hsci-r/hsci-r.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "gghsci"]
 	path = gghsci
 	url = https://github.com/hsci-r/gghsci
-	shallow = true
-	registered = true
 [submodule "hscidbutil"]
 	path = hscidbutil
 	url = https://github.com/hsci-r/hscidbutil
-	shallow = true
-	registered = true
