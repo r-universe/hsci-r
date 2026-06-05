@@ -5,6 +5,6 @@
 [submodule "gghsci"]
 	path = gghsci
 	url = https://github.com/hsci-r/gghsci
-[submodule "hscidbutil"]
-	path = hscidbutil
-	url = https://github.com/hsci-r/hscidbutil
+[submodule "hscida"]
+	path = hscida
+	url = https://github.com/hsci-r/hscida
